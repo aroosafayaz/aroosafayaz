@@ -1,4 +1,3 @@
-<img src="https://www.canva.com/design/DAExSaYt4Ek/vVkEyvnY4XwG9PD66N6UsQ/view?utm_content=DAExSaYt4Ek&utm_campaign=designshare&utm_medium=link&utm_source=viewer" width="400px" alt="aroosa">
 <h1 align="center">Hi 👋, I'm Aroosa Fayaz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
