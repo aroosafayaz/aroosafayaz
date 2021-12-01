@@ -1,3 +1,15 @@
+
+[![MasterHead](https://www.canva.com/design/DAExSaYt4Ek/vVkEyvnY4XwG9PD66N6UsQ/view?utm_content=DAExSaYt4Ek&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel)]
+
+Add profile views( edit your username):
+**Angled brackets are not allowed in description so I have changed them to round brackets, for clear view check out my profile itself**
+
+(p align="left")(img src="https://komarev.com/ghpvc/?username=k..." alt="khushboogoel01" /)(/p)
+
+Add Image or GIF:
+**Angled brackets are not allowed in description so I have changed them to round brackets, for clear view check out my profile itself**
+
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...")
 <h1 align="center">Hi 👋, I'm Aroosa Fayaz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
